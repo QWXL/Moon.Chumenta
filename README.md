@@ -33,4 +33,4 @@ shuYue-love-132-664-A
 
 GPT-soVITS: [Github](https://github.com/RVC-Boss/GPT-SoVITS)
 
-LiteLoaderQQNT: [github](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
+LiteLoaderQQNT: [Github](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
