@@ -28,3 +28,9 @@ shuYue-love-132-664-A
 演示：[BiliBili](https://space.bilibili.com/123064704)
 
 赞助：[爱发电](https://afdian.com/a/shuyue520)
+
+### 致谢
+
+GPT-soVITS: [Github](https://github.com/RVC-Boss/GPT-SoVITS)
+
+LiteLoaderQQNT: [github](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
