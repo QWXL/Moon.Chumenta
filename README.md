@@ -23,3 +23,8 @@ shuYue-love-132-664-A
   
 （√：已完成、%：开发中、X：计划中）
   
+## 杂项
+
+演示：[BiliBili](https://space.bilibili.com/123064704)
+
+赞助：[爱发电](https://afdian.com/a/shuyue520)
