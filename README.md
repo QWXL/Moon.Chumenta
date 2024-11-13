@@ -34,8 +34,16 @@ shuYue-love-132-664-A
 
 赞助：[爱发电](https://afdian.com/a/shuyue520)
 
-### 致谢
+## 致谢
+
+### 项目致谢
 
 GPT-soVITS: [Github](https://github.com/RVC-Boss/GPT-SoVITS)
 
 LiteLoaderQQNT: [Github](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
+
+### 个人/组织致谢
+
+零号智能 ZERO AI：[Official Website](https://zero-ai.online)
+
+~~怀逸动漫社 HuaiYi ACG：永远缅怀~~
