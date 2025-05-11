@@ -57,6 +57,3 @@ GPT-soVITS: [Github](https://github.com/RVC-Boss/GPT-SoVITS)
 
 ~~怀逸动漫社 HuaiYi ACG：永远缅怀~~
 
-## 其他
-
-> 本项目仅供学习、讨论、展示、体验等途径使用，不涉及任何商业属性，更请勿将舒月的输出用于商业用途；本项目无意侵犯任何个体的合法权利。
