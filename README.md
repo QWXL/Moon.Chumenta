@@ -51,6 +51,8 @@ shuYue-love-132-664-A
 
 GPT-soVITS: [Github](https://github.com/RVC-Boss/GPT-SoVITS)
 
+CosyVoice: [Github](https://github.com/FunAudioLLM/CosyVoice)
+
 ### 个人/组织致谢
 
 零号智能 ZERO AI：[Official Website](https://zero-ai.online)
